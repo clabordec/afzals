@@ -96,7 +96,7 @@ This project outlines the installation of VMWare Workstation Player.<br />
 <img src="https://github.com/user-attachments/assets/bc5d2036-d809-47ca-8f84-ef0c80d8784d" width="550" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-<img src="https://github.com/user-attachments/assets/1604b24d-ec84-4092-ae31-da190a01c377``" width="550" alt="Disk Sanitization Steps"/>
+<img src="https://github.com/user-attachments/assets/5f67e303-2ea3-4456-9f1b-0c301bf05356" width="550" alt="Disk Sanitization Steps"/>
 </p>
 
 
@@ -169,3 +169,4 @@ This project outlines the installation of VMWare Workstation Player.<br />
 
 
 # End of Project
+
