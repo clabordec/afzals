@@ -99,6 +99,21 @@ This project outlines the installation of VMWare Workstation Player.<br />
 <img src="https://github.com/user-attachments/assets/5f67e303-2ea3-4456-9f1b-0c301bf05356" width="550" alt="Disk Sanitization Steps"/>
 </p>
 
+### Double click the file and the `VMWare Workstation Pro Setup` wizard will pop up, click Next
+<p>
+<img src="https://github.com/user-attachments/assets/9792cada-d627-45d2-bd90-4efaf9f55c79" width="550" alt="Disk Sanitization Steps"/>
+</p>
+
+### Accept the terms and conditions, then click Next
+<p>
+<img src="https://github.com/user-attachments/assets/fb88854d-1c88-4c28-aca0-6ef4169498d2" width="550" alt="Disk Sanitization Steps"/>
+</p>
+
+### The following checkbox will be selected by default, click Next
+<p>
+<img src="https://github.com/user-attachments/assets/97bded42-a83d-44b3-a31b-c845996ee2a4" width="550" alt="Disk Sanitization Steps"/>
+</p>
+
 
 <br />
 
@@ -169,4 +184,5 @@ This project outlines the installation of VMWare Workstation Player.<br />
 
 
 # End of Project
+
 
