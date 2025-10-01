@@ -20,7 +20,7 @@ Afzals is a forward-thinking company dedicated to delivering high-quality produc
 
 ✨ **Operating Systems**  
 - CentOS 7
-- Windows 10 Pro
+- Windows 11 Home
 
 ---
 
